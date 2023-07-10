@@ -11,8 +11,9 @@ I am Human
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadilai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
-<br/>
-<br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fadilai&bg_color=000529&color=ffffff&line=2a34cb&point=00f5cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/fadilai/count.svg" alt="visitor badge" width="30%"></p>
